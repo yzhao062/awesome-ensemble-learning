@@ -118,12 +118,19 @@ On the Power of Ensemble: Supervised and Unsupervised Methods Reconciled        
 --------------------------
 
 
-**Coursera Machine Learning by University of Washington Ng also partly covers the topic**\ :
+**Coursera - How to Win a Data Science Competition: Learn from Top Kagglers**\ :
 
+* `Ensembling (92 mins) <https://www.coursera.org/lecture/competitive-data-science/introduction-into-ensemble-methods-MJKCi>`_
+
+
+**Coursera - Machine Learning: Classification by University of Washington partly covers the topic**\ :
 
 * `Ensemble classifiers <https://www.coursera.org/lecture/ml-classification/ensemble-classifiers-IAous>`_
 * `Ensembles, Bagging, Boosting <https://www.coursera.org/lecture/predictive-analytics/ensembles-bagging-boosting-ph2UL>`_
 
+
+**Machine Learning and Data Mining** by `Prof. Alexander Ihler <https://www.ics.uci.edu/~ihler/>`_:
+`Section on ensembling (4 videos) <https://www.youtube.com/watch?v=Yvn3--rIdZg&list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw&index=27>`_
 
 ----
 
