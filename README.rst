@@ -67,7 +67,7 @@ Table of Contents
   * `4.1. Overview & Survey Papers <#41-overview--survey-papers>`_
   * `4.2. Key Algorithms <#42-key-algorithms>`_
   * `4.3. Clustering Ensemble <#43-clustering-ensemble>`_
-  * `4.4. Outlier Ensembles <#44-outlier-ensemble>`_
+  * `4.4. Outlier Ensemble <#44-outlier-ensemble>`_
 
 * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
 
@@ -97,6 +97,10 @@ including various contributions from researchers in leading industrial research 
 `Applications of Supervised and Unsupervised Ensemble Methods <https://www.springer.com/gp/book/9783642039980>`_
 edited by Oleg Okun [#Okun2009Applications]_: This book contains the extended papers presented at the 2nd Workshop on Supervised and Unsupervised Ensemble Methods and their Applications (SUEMA),
 in conjunction with ECAI’2008.
+
+`Data Mining and Knowledge Discovery Handbook <https://link.springer.com/chapter/10.1007/0-387-25465-X_45>`_ Chapter 45 (Ensemble Methods for Classifiers):
+by Lior Rokach [#Rokach2005Ensemble]_:  This chapter provides an overview of ensemble methods in classification tasks. We present all important types of ensemble method including boosting and bagging.
+Combining methods and modeling issues such as ensemble diversity and ensemble size are discussed.
 
 
 1.2. Tutorials
@@ -173,8 +177,18 @@ Stacking              Stacked regressions                                       
 ====================  =================================================================================================  =================================  =====  ===========================  ==============================================================================================================================================================================================
 
 
-4.4. Outlier Ensembles
-^^^^^^^^^^^^^^^^^^^^^^
+4.3. Clustering Ensemble
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Venue                         Year   Ref                           Materials
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+A survey of clustering ensemble algorithms                                                         IJPRAI                        2011   [#VegaPons2011A]_             `[PDF] <https://pdfs.semanticscholar.org/0d1b/7d01fb2634b6160a96bbdd73f918ed3859cb.pdf>`_
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+
+
+4.3. Outlier Ensemble
+^^^^^^^^^^^^^^^^^^^^^
 
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
@@ -260,6 +274,10 @@ References
 .. [#Opitz1999Popular] Opitz, D. and Maclin, R., 1999. Popular ensemble methods: An empirical study. *Journal of artificial intelligence research*, 11, pp.169-198.
 
 .. [#Quinlan1996Bagging] Quinlan, J.R., 1996, August. Bagging, boosting, and C4.5. In *AAAI/IAAI*, Vol. 1 (pp. 725-730).
+
+.. [#Rokach2005Ensemble] Rokach L. (2005) Ensemble Methods for Classifiers. In: Maimon O., Rokach L. (eds) *Data Mining and Knowledge Discovery Handbook*. Springer, Boston, MA
+
+.. [#VegaPons2011A] Vega-Pons, S. and Ruiz-Shulcloper, J., 2011. A survey of clustering ensemble algorithms. *International Journal of Pattern Recognition and Artificial Intelligence*, 25(03), pp.337-372.
 
 .. [#Wolpert1992Stacked] Wolpert, D.H., 1992. Stacked generalization. *Neural networks*, 5(2), pp.241-259.
 
