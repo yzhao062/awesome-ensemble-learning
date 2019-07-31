@@ -16,6 +16,11 @@ Awesome Ensemble Learning
    :alt: License
 
 
+.. image:: https://awesome.re/badge-flat2.svg
+   :target: https://awesome.re/badge-flat2.svg
+   :alt: Awesome
+
+
 ----
 
 
