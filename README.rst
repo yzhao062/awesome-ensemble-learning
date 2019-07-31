@@ -95,8 +95,8 @@ edited by Oleg Okun [#Zhang2012Ensemble]_: Responding to a shortage of literatur
 including various contributions from researchers in leading industrial research labs.
 
 `Applications of Supervised and Unsupervised Ensemble Methods <https://www.springer.com/gp/book/9783642039980>`_
-edited by Oleg Okun [#Okun2009Applications]_: This book contains the extended papers presented at the 2nd Workshop on Supervised and Unsupervised Ensemble Methods and their Applications (SUEMA) held on 21-22 July, 2008 in Patras, Greece,
-in conjunction with the 18th European Conference on Artificial Intelligence (ECAI’2008).
+edited by Oleg Okun [#Okun2009Applications]_: This book contains the extended papers presented at the 2nd Workshop on Supervised and Unsupervised Ensemble Methods and their Applications (SUEMA),
+in conjunction with ECAI’2008.
 
 
 1.2. Tutorials
