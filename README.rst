@@ -130,7 +130,7 @@ On the Power of Ensemble: Supervised and Unsupervised Methods Reconciled        
 
 
 **Machine Learning and Data Mining** by `Prof. Alexander Ihler <https://www.ics.uci.edu/~ihler/>`_:
-`Section on ensembling (4 videos) <https://www.youtube.com/watch?v=Yvn3--rIdZg&list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw&index=27>`_
+`Section on ensembling (4 videos) <https://www.youtube.com/watch?v=Yvn3--rIdZg&list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw&index=27>`_.
 
 ----
 
@@ -262,6 +262,8 @@ References
 ----------
 
 
+.. [#Aggarwal2013Outlier] Aggarwal, C.C., 2013. Outlier ensembles: position paper. *ACM SIGKDD Explorations Newsletter*\ , 14(2), pp.49-58.
+
 .. [#Aggarwal2017Outlier] Aggarwal, C.C. and Sathe, S., 2017. Outlier ensembles: An introduction. Springer.
 
 .. [#Bell2007Lessons] Bell, R.M. and Koren, Y., 2007. Lessons from the Netflix prize challenge. *SIGKDD Explorations*, 9(2), pp.75-79.
@@ -270,11 +272,17 @@ References
 
 .. [#Breiman1996Stacked] Breiman, L., 1996. Stacked regressions. *Machine learning*, 24(1), pp.49-64.
 
+.. [#Campos2018An] Campos, G.O., Zimek, A. and Meira, W., 2018, June. An Unsupervised Boosting Strategy for Outlier Detection Ensembles. In *Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 564-576)*. Springer, Cham.
+
+.. [#Chen2017Outlier] Chen, J., Sathe, S., Aggarwal, C. and Turaga, D., 2017, June. Outlier detection with autoencoder ensembles. *SIAM International Conference on Data Mining*, pp. 90-98. Society for Industrial and Applied Mathematics.
+
 .. [#Dietterich2000Ensemble] Dietterich, T.G., 2000, June. Ensemble methods in machine learning. In *International workshop on multiple classifier systems* (pp. 1-15). Springer, Berlin, Heidelberg.
 
 .. [#Freund1997A] Freund, Y. and Schapire, R.E., 1997. A decision-theoretic generalization of on-line learning and an application to boosting. *Journal of computer and system sciences*, 55(1), pp.119-139.
 
 .. [#Gao2010On] Gao, J., Fan, W. and Han, J., 2010. On the power of ensemble: Supervised and unsupervised methods reconciled. In *Tutorial on SIAM Data Mining Conference (SDM)*, Columbus, OH.
+
+.. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *International Conference on Data Mining*\ , pp. 413-422. IEEE.
 
 .. [#Okun2009Applications] Okun, O. ed., 2009. Applications of supervised and unsupervised ensemble methods (Vol. 245). Springer.
 
@@ -288,6 +296,10 @@ References
 
 .. [#Wolpert1992Stacked] Wolpert, D.H., 1992. Stacked generalization. *Neural networks*, 5(2), pp.241-259.
 
+.. [#Zhao2019LSCP] Zhao, Y., Nasrullah, Z., Hryniewicki, M.K. and Li, Z., 2019, May. LSCP: Locally selective combination in parallel outlier ensembles. In *Proceedings of the 2019 SIAM International Conference on Data Mining (SDM)*, pp. 585-593. Society for Industrial and Applied Mathematics.
+
 .. [#Zhang2012Ensemble] Zhang, C. and Ma, Y. eds., 2012. Ensemble machine learning: methods and applications. Springer Science & Business Media.
 
 .. [#Zhou2012Ensemble] Zhou, Z.H., 2012. Ensemble methods: foundations and algorithms. Chapman and Hall/CRC.
+
+.. [#Zimek2014Ensembles] Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newsletter*\ , 15(1), pp.11-22.
