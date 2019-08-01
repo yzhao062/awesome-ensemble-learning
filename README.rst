@@ -151,7 +151,13 @@ On the Power of Ensemble: Supervised and Unsupervised Methods Reconciled        
 3.2. Datasets
 ^^^^^^^^^^^^^
 
-To complete.
+As a subfield of machine learning, ensemble learning is usually tested against
+general machine learning benchmark datasets. Some helpful links can be found below:
+
+* `List of datasets for machine-learning research - Wikipedia <https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research>`_
+* `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/index.php>`_
+* `PMLB: a large benchmark suite for machine learning evaluation and comparison <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5725843/>`_ [#Olson2017PMLB]_: `Dataset Repository <https://github.com/EpistasisLab/penn-ml-benchmarks>`_
+
 
 ----
 
@@ -285,6 +291,8 @@ References
 .. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *International Conference on Data Mining*\ , pp. 413-422. IEEE.
 
 .. [#Okun2009Applications] Okun, O. ed., 2009. Applications of supervised and unsupervised ensemble methods (Vol. 245). Springer.
+
+.. [#Olson2017PMLB] Olson, R.S., La Cava, W., Orzechowski, P., Urbanowicz, R.J. and Moore, J.H., 2017. PMLB: a large benchmark suite for machine learning evaluation and comparison. BioData mining, 10(1), p.36.
 
 .. [#Opitz1999Popular] Opitz, D. and Maclin, R., 1999. Popular ensemble methods: An empirical study. *Journal of artificial intelligence research*, 11, pp.169-198.
 
