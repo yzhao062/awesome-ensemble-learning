@@ -196,7 +196,7 @@ Stacking              Stacked regressions                                       
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-Cluster Ensembles – A Knowledge Reuse Framework for Combining Multiple Partitions                  JMLR                          2002   [Strehl2002Cluster]_          `[PDF] <http://strehl.com/download/strehl-jmlr02.pdf>`_
+Cluster Ensembles – A Knowledge Reuse Framework for Combining Multiple Partitions                  JMLR                          2002   [#Strehl2002Cluster]_          `[PDF] <http://strehl.com/download/strehl-jmlr02.pdf>`_
 Clusterer Ensemble                                                                                 KBS                           2006   [#Zhou2006Clusterer]_         `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/kbs06.pdf>`_
 A survey of clustering ensemble algorithms                                                         IJPRAI                        2011   [#VegaPons2011A]_             `[PDF] <https://pdfs.semanticscholar.org/0d1b/7d01fb2634b6160a96bbdd73f918ed3859cb.pdf>`_
 Clustering ensemble method                                                                         Cybernetics                   2019   [#Alqurashi2019Clustering]_    `[PDF] <https://www.researchgate.net/publication/322520921_Clustering_ensemble_method>`_
@@ -305,7 +305,7 @@ References
 
 .. [#Rokach2005Ensemble] Rokach L. (2005) Ensemble Methods for Classifiers. In: Maimon O., Rokach L. (eds) *Data Mining and Knowledge Discovery Handbook*. Springer, Boston, MA
 
-.. [Strehl2002Cluster] Strehl, A. and Ghosh, J., 2002. Cluster ensembles---a knowledge reuse framework for combining multiple partitions. *Journal of machine learning research*, 3(Dec), pp.583-617.
+.. [#Strehl2002Cluster] Strehl, A. and Ghosh, J., 2002. Cluster ensembles---a knowledge reuse framework for combining multiple partitions. *Journal of machine learning research*, 3(Dec), pp.583-617.
 
 .. [#VegaPons2011A] Vega-Pons, S. and Ruiz-Shulcloper, J., 2011. A survey of clustering ensemble algorithms. *International Journal of Pattern Recognition and Artificial Intelligence*, 25(03), pp.337-372.
 
