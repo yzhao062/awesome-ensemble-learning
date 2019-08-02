@@ -87,9 +87,6 @@ Table of Contents
 by Zhi-Hua Zhou [#Zhou2012Ensemble]_: Classical text book covering most of the ensemble learning techniques.
 A **must-read** for people in the field. `[Full Book] <http://www2.islab.ntua.gr/attachments/article/86/Ensemble%20methods%20-%20Zhou.pdf>`_
 
-`Outlier Ensembles: An Introduction <https://www.springer.com/gp/book/9783319547640>`_
-by Charu Aggarwal and Saket Sathe [#Aggarwal2017Outlier]_: Great intro book for ensemble learning in outlier analysis.
-
 `Ensemble Machine Learning: Methods and Applications <https://link.springer.com/book/10.1007%2F978-1-4419-9326-7>`_
 edited by Oleg Okun [#Zhang2012Ensemble]_: Responding to a shortage of literature dedicated to the topic, this volume offers comprehensive coverage of state-of-the-art ensemble learning techniques,
 including various contributions from researchers in leading industrial research labs.
@@ -101,6 +98,9 @@ in conjunction with ECAI’2008.
 `Data Mining and Knowledge Discovery Handbook <https://link.springer.com/chapter/10.1007/0-387-25465-X_45>`_ Chapter 45 (Ensemble Methods for Classifiers):
 by Lior Rokach [#Rokach2005Ensemble]_:  This chapter provides an overview of ensemble methods in classification tasks. We present all important types of ensemble method including boosting and bagging.
 Combining methods and modeling issues such as ensemble diversity and ensemble size are discussed.
+
+`Outlier Ensembles: An Introduction <https://www.springer.com/gp/book/9783319547640>`_
+by Charu Aggarwal and Saket Sathe [#Aggarwal2017Outlier]_: Great intro book for ensemble learning in outlier analysis.
 
 
 1.2. Tutorials
@@ -196,7 +196,10 @@ Stacking              Stacked regressions                                       
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Cluster Ensembles – A Knowledge Reuse Framework for Combining Multiple Partitions                  JMLR                          2002   [Strehl2002Cluster]_          `[PDF] <http://strehl.com/download/strehl-jmlr02.pdf>`_
+Clusterer Ensemble                                                                                 KBS                           2006   [#Zhou2006Clusterer]_         `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/kbs06.pdf>`_
 A survey of clustering ensemble algorithms                                                         IJPRAI                        2011   [#VegaPons2011A]_             `[PDF] <https://pdfs.semanticscholar.org/0d1b/7d01fb2634b6160a96bbdd73f918ed3859cb.pdf>`_
+Clustering ensemble method                                                                         Cybernetics                   2019   [Alqurashi2019Clustering]_    `[PDF] <https://www.researchgate.net/publication/322520921_Clustering_ensemble_method>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -272,6 +275,8 @@ References
 
 .. [#Aggarwal2017Outlier] Aggarwal, C.C. and Sathe, S., 2017. Outlier ensembles: An introduction. Springer.
 
+.. [Alqurashi2019Clustering] Alqurashi, T. and Wang, W., 2019. Clustering ensemble method. *International Journal of Machine Learning and Cybernetics*, 10(6), pp.1227-1246.
+
 .. [#Bell2007Lessons] Bell, R.M. and Koren, Y., 2007. Lessons from the Netflix prize challenge. *SIGKDD Explorations*, 9(2), pp.75-79.
 
 .. [#Breiman1996Bagging] Breiman, L., 1996. Bagging predictors. *Machine learning*, 24(2), pp.123-140.
@@ -300,6 +305,8 @@ References
 
 .. [#Rokach2005Ensemble] Rokach L. (2005) Ensemble Methods for Classifiers. In: Maimon O., Rokach L. (eds) *Data Mining and Knowledge Discovery Handbook*. Springer, Boston, MA
 
+.. [Strehl2002Cluster] Strehl, A. and Ghosh, J., 2002. Cluster ensembles---a knowledge reuse framework for combining multiple partitions. *Journal of machine learning research*, 3(Dec), pp.583-617.
+
 .. [#VegaPons2011A] Vega-Pons, S. and Ruiz-Shulcloper, J., 2011. A survey of clustering ensemble algorithms. *International Journal of Pattern Recognition and Artificial Intelligence*, 25(03), pp.337-372.
 
 .. [#Wolpert1992Stacked] Wolpert, D.H., 1992. Stacked generalization. *Neural networks*, 5(2), pp.241-259.
@@ -307,6 +314,8 @@ References
 .. [#Zhao2019LSCP] Zhao, Y., Nasrullah, Z., Hryniewicki, M.K. and Li, Z., 2019, May. LSCP: Locally selective combination in parallel outlier ensembles. In *Proceedings of the 2019 SIAM International Conference on Data Mining (SDM)*, pp. 585-593. Society for Industrial and Applied Mathematics.
 
 .. [#Zhang2012Ensemble] Zhang, C. and Ma, Y. eds., 2012. Ensemble machine learning: methods and applications. Springer Science & Business Media.
+
+.. [#Zhou2006Clusterer] Zhou, Z.H. and Tang, W., 2006. Clusterer ensemble. *Knowledge-Based Systems*, 19(1), pp.77-83.
 
 .. [#Zhou2012Ensemble] Zhou, Z.H., 2012. Ensemble methods: foundations and algorithms. Chapman and Hall/CRC.
 
