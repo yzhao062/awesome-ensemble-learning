@@ -275,7 +275,7 @@ References
 
 .. [#Aggarwal2017Outlier] Aggarwal, C.C. and Sathe, S., 2017. Outlier ensembles: An introduction. Springer.
 
-.. [Alqurashi2019Clustering] Alqurashi, T. and Wang, W., 2019. Clustering ensemble method. *International Journal of Machine Learning and Cybernetics*, 10(6), pp.1227-1246.
+.. [#Alqurashi2019Clustering] Alqurashi, T. and Wang, W., 2019. Clustering ensemble method. *International Journal of Machine Learning and Cybernetics*, 10(6), pp.1227-1246.
 
 .. [#Bell2007Lessons] Bell, R.M. and Koren, Y., 2007. Lessons from the Netflix prize challenge. *SIGKDD Explorations*, 9(2), pp.75-79.
 
