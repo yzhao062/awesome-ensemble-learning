@@ -66,8 +66,9 @@ Table of Contents
 
   * `4.1. Overview & Survey Papers <#41-overview--survey-papers>`_
   * `4.2. Key Algorithms <#42-key-algorithms>`_
-  * `4.3. Clustering Ensemble <#43-clustering-ensemble>`_
-  * `4.4. Outlier Ensemble <#44-outlier-ensemble>`_
+  * `4.3. Boosting <#43-boosting>`_
+  * `4.4. Clustering Ensemble <#44-clustering-ensemble>`_
+  * `4.5. Outlier Ensemble <#45-outlier-ensemble>`_
 
 * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
 
@@ -190,20 +191,32 @@ Stacking              Stacked regressions                                       
 ====================  =================================================================================================  =================================  =====  ===========================  ==============================================================================================================================================================================================
 
 
-4.3. Clustering Ensemble
+4.3. Boosting
+^^^^^^^^^^^^^
+
+=================================================================================================  ============================  =====  ==============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Venue                         Year   Ref                             Materials
+=================================================================================================  ============================  =====  ==============================  ==========================================================================================================================================================================
+Xgboost: A scalable tree boosting system                                                           KDD                           2016   [#Chen2016Xgboost]_             `[PDF] <https://dl.acm.org/ft_gateway.cfm?ftid=1775849&id=2939785>`_
+Lightgbm: A highly efficient gradient boosting decision tree                                       NIPS                          2017   [#Ke2017Lightgbm]_              `[PDF] <https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf>`_
+CatBoost: unbiased boosting with categorical features                                              NIPS                          2018   [#Prokhorenkova2018CatBoost]_   `[PDF] <https://papers.nips.cc/paper/7898-catboost-unbiased-boosting-with-categorical-features.pdf>`_
+=================================================================================================  ============================  =====  ==============================  ==========================================================================================================================================================================
+
+
+4.4. Clustering Ensemble
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-Cluster Ensembles – A Knowledge Reuse Framework for Combining Multiple Partitions                  JMLR                          2002   [#Strehl2002Cluster]_          `[PDF] <http://strehl.com/download/strehl-jmlr02.pdf>`_
+Cluster Ensembles – A Knowledge Reuse Framework for Combining Multiple Partitions                  JMLR                          2002   [#Strehl2002Cluster]_         `[PDF] <http://strehl.com/download/strehl-jmlr02.pdf>`_
 Clusterer Ensemble                                                                                 KBS                           2006   [#Zhou2006Clusterer]_         `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/kbs06.pdf>`_
 A survey of clustering ensemble algorithms                                                         IJPRAI                        2011   [#VegaPons2011A]_             `[PDF] <https://pdfs.semanticscholar.org/0d1b/7d01fb2634b6160a96bbdd73f918ed3859cb.pdf>`_
-Clustering ensemble method                                                                         Cybernetics                   2019   [#Alqurashi2019Clustering]_    `[PDF] <https://www.researchgate.net/publication/322520921_Clustering_ensemble_method>`_
+Clustering ensemble method                                                                         Cybernetics                   2019   [#Alqurashi2019Clustering]_   `[PDF] <https://www.researchgate.net/publication/322520921_Clustering_ensemble_method>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
-4.4. Outlier Ensemble
+4.5. Outlier Ensemble
 ^^^^^^^^^^^^^^^^^^^^^
 
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
@@ -285,6 +298,8 @@ References
 
 .. [#Campos2018An] Campos, G.O., Zimek, A. and Meira, W., 2018, June. An Unsupervised Boosting Strategy for Outlier Detection Ensembles. In *Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 564-576)*. Springer, Cham.
 
+.. [#Chen2016Xgboost] Chen, T. and Guestrin, C., 2016, August. Xgboost: A scalable tree boosting system. In *Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining* (pp. 785-794). ACM.
+
 .. [#Chen2017Outlier] Chen, J., Sathe, S., Aggarwal, C. and Turaga, D., 2017, June. Outlier detection with autoencoder ensembles. *SIAM International Conference on Data Mining*, pp. 90-98. Society for Industrial and Applied Mathematics.
 
 .. [#Dietterich2000Ensemble] Dietterich, T.G., 2000, June. Ensemble methods in machine learning. In *International workshop on multiple classifier systems* (pp. 1-15). Springer, Berlin, Heidelberg.
@@ -292,6 +307,8 @@ References
 .. [#Freund1997A] Freund, Y. and Schapire, R.E., 1997. A decision-theoretic generalization of on-line learning and an application to boosting. *Journal of computer and system sciences*, 55(1), pp.119-139.
 
 .. [#Gao2010On] Gao, J., Fan, W. and Han, J., 2010. On the power of ensemble: Supervised and unsupervised methods reconciled. In *Tutorial on SIAM Data Mining Conference (SDM)*, Columbus, OH.
+
+.. [#Ke2017Lightgbm] Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., Ye, Q. and Liu, T.Y., 2017. Lightgbm: A highly efficient gradient boosting decision tree. In *Advances in Neural Information Processing Systems* (pp. 3146-3154).
 
 .. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *International Conference on Data Mining*\ , pp. 413-422. IEEE.
 
@@ -302,6 +319,8 @@ References
 .. [#Opitz1999Popular] Opitz, D. and Maclin, R., 1999. Popular ensemble methods: An empirical study. *Journal of artificial intelligence research*, 11, pp.169-198.
 
 .. [#Quinlan1996Bagging] Quinlan, J.R., 1996, August. Bagging, boosting, and C4.5. In *AAAI/IAAI*, Vol. 1 (pp. 725-730).
+
+.. [#Prokhorenkova2018CatBoost] Prokhorenkova, L., Gusev, G., Vorobev, A., Dorogush, A.V. and Gulin, A., 2018. CatBoost: unbiased boosting with categorical features. In *Advances in Neural Information Processing Systems* (pp. 6638-6648).
 
 .. [#Rokach2005Ensemble] Rokach L. (2005) Ensemble Methods for Classifiers. In: Maimon O., Rokach L. (eds) *Data Mining and Knowledge Discovery Handbook*. Springer, Boston, MA
 
