@@ -29,9 +29,9 @@ Awesome Ensemble Learning
 Ensembling leverages multiple base models to achieve better predictive
 performance, which is often better than any of the constituent models alone [#Opitz1999Popular]_.
 It has been proven critical in many practical applications and data science
-competitions [#Bell2007Lessons]_, e.g., Kggle.
+competitions [#Bell2007Lessons]_, e.g., Kaggle.
 
-This repository collects:
+To promote the learning of ensembling, we create this repository with:
 
 
 #. Books & Academic Papers
@@ -142,11 +142,13 @@ On the Power of Ensemble: Supervised and Unsupervised Methods Reconciled        
 3.1. Toolboxes
 ^^^^^^^^^^^^^^
 
-[**Python**] `combo <https://github.com/yzhao062/combo>`_\ : combo is a comprehensive Python toolbox for combining machine learning (ML) models and scores for various tasks, including classification, clustering, and anomaly detection. It supports the combination of ML models from core libraries such as scikit-learn and xgboost.
+[**Python**] `combo <https://github.com/yzhao062/combo>`_\ : combo is a comprehensive Python toolbox for combining machine learning (ML) models and scores for various tasks, including classification, clustering, and anomaly detection. It supports the combination of ML models from core libraries such as scikit-learn and xgboost (`documentation <http://pycombo.readthedocs.io/>`_).
 
 [**Python**] `pycobra <https://github.com/bhargavvader/pycobra>`_\ :  python library implementing ensemble methods for regression, classification and visualisation tools including Voronoi tesselations.
 
 [**Python**] `DESlib <https://github.com/scikit-learn-contrib/DESlib>`_\ :  A Python library for dynamic classifier and ensemble selection.
+
+[**Python**] `imbalanced-learn <https://github.com/scikit-learn-contrib/imbalanced-learn>`_\ :  A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning (`documentation <http://imbalanced-learn.org>`_).
 
 
 3.2. Datasets
