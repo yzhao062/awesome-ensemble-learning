@@ -172,12 +172,13 @@ general machine learning benchmark datasets. Some helpful links can be found bel
 4.1. Overview & Survey Papers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-Paper Title                                                                                        Venue                         Year   Ref                           Materials
-=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-Ensemble methods in machine learning                                                               MCS                           2000   [#Dietterich2000Ensemble]_     `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.34.4718&rep=rep1&type=pdf>`_
-Popular ensemble methods: An empirical study                                                       JAIR                          1999   [#Opitz1999Popular]_           `[PDF] <https://www.d.umn.edu/~rmaclin/publications/opitz-jair99.pdf>`_
-=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+=================================================================================================  ===============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Venue                            Year   Ref                           Materials
+=================================================================================================  ===============================  =====  ============================  ==========================================================================================================================================================================
+Ensemble methods in machine learning                                                               MCS                              2000   [#Dietterich2000Ensemble]_     `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.34.4718&rep=rep1&type=pdf>`_
+Popular ensemble methods: An empirical study                                                       JAIR                             1999   [#Opitz1999Popular]_           `[PDF] <https://www.d.umn.edu/~rmaclin/publications/opitz-jair99.pdf>`_
+Ensemble learning: A survey                                                                        Wiley Interdisciplinary Reviews  2018   [#Sagi2018Ensemble]_           `[PDF] <https://onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1249>`_
+=================================================================================================  ===============================  =====  ============================  ==========================================================================================================================================================================
 
 
 4.2. Key Algorithms
@@ -241,7 +242,7 @@ LSCP: Locally selective combination in parallel outlier ensembles               
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 A survey on ensemble learning for data stream classification                                       ACM Computing Surveys         2017   [#Gomes2017A]_                `[PDF] <https://www.researchgate.net/publication/315698712_A_Survey_on_Ensemble_Learning_for_Data_Stream_Classification>`_
-Ensemble learning for data stream analysis: A survey                                               Information Fusion            2017   [Krawczyk2017Ensemble]_       `[PDF] <http://www.math.chalmers.se/Stat/Grundutb/GU/MSA220/S18/DataStream-Classification.pdf>`_
+Ensemble learning for data stream analysis: A survey                                               Information Fusion            2017   [#Krawczyk2017Ensemble]_      `[PDF] <http://www.math.chalmers.se/Stat/Grundutb/GU/MSA220/S18/DataStream-Classification.pdf>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -326,7 +327,7 @@ References
 
 .. [#Ke2017Lightgbm] Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., Ye, Q. and Liu, T.Y., 2017. Lightgbm: A highly efficient gradient boosting decision tree. In *Advances in Neural Information Processing Systems* (pp. 3146-3154).
 
-.. [Krawczyk2017Ensemble] Krawczyk, B., Minku, L.L., Gama, J., Stefanowski, J. and Woźniak, M., 2017. Ensemble learning for data stream analysis: A survey. *Information Fusion*, 37, pp.132-156.
+.. [#Krawczyk2017Ensemble] Krawczyk, B., Minku, L.L., Gama, J., Stefanowski, J. and Woźniak, M., 2017. Ensemble learning for data stream analysis: A survey. *Information Fusion*, 37, pp.132-156.
 
 .. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *International Conference on Data Mining*\ , pp. 413-422. IEEE.
 
@@ -341,6 +342,8 @@ References
 .. [#Prokhorenkova2018CatBoost] Prokhorenkova, L., Gusev, G., Vorobev, A., Dorogush, A.V. and Gulin, A., 2018. CatBoost: unbiased boosting with categorical features. In *Advances in Neural Information Processing Systems* (pp. 6638-6648).
 
 .. [#Rokach2005Ensemble] Rokach L. (2005) Ensemble Methods for Classifiers. In: Maimon O., Rokach L. (eds) *Data Mining and Knowledge Discovery Handbook*. Springer, Boston, MA
+
+.. [#Sagi2018Ensemble] Sagi, O. and Rokach, L., 2018. Ensemble learning: A survey. *Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery*, 8(4), p.e1249.
 
 .. [#Strehl2002Cluster] Strehl, A. and Ghosh, J., 2002. Cluster ensembles---a knowledge reuse framework for combining multiple partitions. *Journal of machine learning research*, 3(Dec), pp.583-617.
 
