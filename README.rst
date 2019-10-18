@@ -69,6 +69,7 @@ Table of Contents
   * `4.3. Boosting <#43-boosting>`_
   * `4.4. Clustering Ensemble <#44-clustering-ensemble>`_
   * `4.5. Outlier Ensemble <#45-outlier-ensemble>`_
+  * `4.6. Ensemble Learning for Data Stream <#46-ensemble-learning-for-data-stream>`_
 
 * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
 
@@ -233,6 +234,17 @@ LSCP: Locally selective combination in parallel outlier ensembles               
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
+4.6. Ensemble Learning for Data Stream
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Venue                         Year   Ref                           Materials
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+A survey on ensemble learning for data stream classification                                       ACM Computing Surveys         2017   [#Gomes2017A]_                `[PDF] <https://www.researchgate.net/publication/315698712_A_Survey_on_Ensemble_Learning_for_Data_Stream_Classification>`_
+Ensemble learning for data stream analysis: A survey                                               Information Fusion            2017   [Krawczyk2017Ensemble]_       `[PDF] <http://www.math.chalmers.se/Stat/Grundutb/GU/MSA220/S18/DataStream-Classification.pdf>`_
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+
+
 ----
 
 5. Key Conferences/Workshops/Journals
@@ -310,7 +322,11 @@ References
 
 .. [#Gao2010On] Gao, J., Fan, W. and Han, J., 2010. On the power of ensemble: Supervised and unsupervised methods reconciled. In *Tutorial on SIAM Data Mining Conference (SDM)*, Columbus, OH.
 
+.. [#Gomes2017A] Gomes, H.M., Barddal, J.P., Enembreck, F. and Bifet, A., 2017. A survey on ensemble learning for data stream classification. *ACM Computing Surveys (CSUR)*, 50(2), p.23.
+
 .. [#Ke2017Lightgbm] Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., Ye, Q. and Liu, T.Y., 2017. Lightgbm: A highly efficient gradient boosting decision tree. In *Advances in Neural Information Processing Systems* (pp. 3146-3154).
+
+.. [Krawczyk2017Ensemble] Krawczyk, B., Minku, L.L., Gama, J., Stefanowski, J. and Woźniak, M., 2017. Ensemble learning for data stream analysis: A survey. *Information Fusion*, 37, pp.132-156.
 
 .. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *International Conference on Data Mining*\ , pp. 413-422. IEEE.
 
